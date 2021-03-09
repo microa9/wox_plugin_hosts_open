@@ -1,0 +1,12 @@
+{
+  "ID": "D433C27A574F480FA6A9732E5B896B93",
+  "ActionKeyword": "hosts",
+  "Name": "OpenHosts",
+  "Description": "Open hosts.",
+  "Author": "Abe",
+  "Version": "1.0.0",
+  "Language": "python",
+  "Website": "",
+  "IcoPath": "icon.png",
+  "ExecuteFileName": "main.py"
+}
